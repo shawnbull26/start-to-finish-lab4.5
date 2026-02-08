@@ -13,8 +13,8 @@ a.active {
 }
 
 header {
-    margin: 0;
-    padding: 0 30px;
+    /* margin: 0;
+    padding: 0 30px; */
     display: flex;
     background: var(--main-bg-alt);
 }
