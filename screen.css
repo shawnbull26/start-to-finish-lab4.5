@@ -13,7 +13,7 @@ a.active {
 }
 
 header {
-    width: 100%;
+    margin: 0px;
     padding: 0 30px;
     display: flex;
     background: var(--main-bg-alt);
@@ -28,4 +28,8 @@ body {
 
 main {
     margin: 0 20%;
+}
+
+#headingTitle h2 {
+    text-align: center;
 }
