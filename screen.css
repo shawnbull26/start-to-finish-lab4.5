@@ -20,7 +20,7 @@ header {
 }
 
 body {
-    margin: 0 20%;
+    /* margin: 0 20%; */
     background: var(--main-bg);
     color: var(--main-type);
     font-family: Helvetica, sans-serif;
