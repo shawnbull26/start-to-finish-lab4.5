@@ -18,6 +18,9 @@ header {
     display: flex;
     background: var(--main-bg-alt);
 }
+header h1 {
+    color: #222;
+}
 
 body {
     /* margin: 0 20%; */
