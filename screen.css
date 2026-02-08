@@ -5,7 +5,7 @@ a.active {
 
 :root {
     --main-bg: #222;
-    --main-bg-alt: #111;
+    --main-bg-alt: #B5B5B5;
     --main-type: #f3f3f3;
     --main-type-alt: #aaa;
     --image-border-radius: 20px;
@@ -20,7 +20,8 @@ body {
 }
 
 header {
-  padding: 0 30px;
-  display: flex;
-  background: var(--main-bg-alt);
+    margin: auto;
+    padding: 0 30px;
+    display: flex;
+    background: var(--main-bg-alt);
 }
