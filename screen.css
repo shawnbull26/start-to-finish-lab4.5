@@ -22,7 +22,7 @@ header {
 body {
     /* margin: 0 20%; */
     background: var(--main-bg);
-    color: var(--main-type);
+    color: var(--main-bg);
     font-family: Helvetica, sans-serif;
 }
 
