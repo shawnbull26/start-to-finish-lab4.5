@@ -42,6 +42,7 @@ main {
 }
 
 #hero img {
+    float: left;
     width: 300px;
     height: auto;
     margin-right: 20px;
