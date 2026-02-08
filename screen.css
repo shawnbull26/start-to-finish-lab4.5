@@ -2,3 +2,19 @@
 a.active {
     font-weight: bold;
 }
+
+:root {
+    --main-bg: #222;
+    --main-bg-alt: #111;
+    --main-type: #f3f3f3;
+    --main-type-alt: #aaa;
+    --image-border-radius: 20px;
+    --header-border-radius: 40px;
+}
+
+body {
+    margin: 0 20%;
+    background: var(--main-bg);
+    color: var(--main-type);
+    font-family: Helvetica, sans-serif;
+}
