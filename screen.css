@@ -37,12 +37,12 @@ main {
 }
 
 #hero {
-    display: flex;
-    align-items: flex-start;
+    /* display: flex;
+    align-items: flex-start; */
 }
 
 #hero img {
-    width: 30%;
+    width: 300px;
     height: auto;
     margin-right: 20px;
 }
