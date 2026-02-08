@@ -13,7 +13,7 @@ a.active {
 }
 
 header {
-    margin: auto;
+    /* margin: auto; */
     padding: 0 30px;
     display: flex;
     background: var(--main-bg-alt);
@@ -24,4 +24,8 @@ body {
     background: var(--main-bg);
     color: var(--main-type);
     font-family: Helvetica, sans-serif;
+}
+
+main {
+    margin: 0 20%;
 }
