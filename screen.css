@@ -12,16 +12,16 @@ a.active {
     --header-border-radius: 40px;
 }
 
+header {
+    margin: auto;
+    padding: 0 30px;
+    display: flex;
+    background: var(--main-bg-alt);
+}
+
 body {
     margin: 0 20%;
     background: var(--main-bg);
     color: var(--main-type);
     font-family: Helvetica, sans-serif;
-}
-
-header {
-    /* margin: auto; */
-    padding: 0 30px;
-    /* display: flex; */
-    background: var(--main-bg-alt);
 }
