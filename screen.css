@@ -13,13 +13,14 @@ a.active {
 }
 
 header {
-    /* margin: 0;
-    padding: 0 30px; */
+    margin: 0;
+    padding: 0;
     display: flex;
     background: var(--main-bg-alt);
 }
 header h1 {
     color: #222;
+    padding: 0 30px;
 }
 
 body {
